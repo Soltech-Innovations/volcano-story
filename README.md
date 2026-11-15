@@ -2,7 +2,7 @@
 
 A four-scene animated story about a volcano eruption, built with JavaScript graphics. Click through the scenes to watch a calm landscape turn into full volcanic chaos.
 
-<!-- Drag your demo video (.mp4, under 10MB) here when editing this file on GitHub. -->
+https://github.com/user-attachments/assets/74a43403-0011-4687-9599-fd163e9761ca
 
 ## The Scenes
 
